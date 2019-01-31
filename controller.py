@@ -1,4 +1,4 @@
-#acts as a display for the results of the sensors.py and the arduino.py messages
+#rx all signals and compute action and send to arduino
 
 #recieves sensor messages and communicates messages
 #transmits the efforts of the controller to the arduino
